@@ -155,15 +155,9 @@ const VolunteerForm = () => {
           },
 
           {
-            value: 'journalism',
-            label:
-              'I am a journalism or communications student or professional who can help do outreach to state officials.',
-          },
-
-          {
             value: 'scicomm',
             label:
-              'I am a health science student or professional who can help review your data and content.',
+              'I am a health science professional or graduate student who can help review your data and content.',
           },
         ]}
         id="workstream"
